@@ -1,4 +1,5 @@
-# DevOps Projects Portfolio (A comprehensive collection of my DevOps-related projects)
+# DevOps Projects Portfolio
+A comprehensive collection of DevOps-related projects
 
 Welcome to My DevOps Projects Portfolio!
 
